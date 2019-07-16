@@ -1,2 +1,0 @@
-# EmailVuln
-Bulan bocah bucin
